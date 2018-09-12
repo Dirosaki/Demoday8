@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+
+}
+
+header{
+    height: 50px;
+    width: 100%;
+    background-color: blueviolet;
+    display: flex; 
+    align-items: center;
+    
+}
+
+.menu{
+    height: 100%;
+    width: 50px;
+    background-color: white;
+    margin-left: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    cursor: pointer;
+}
+
+.hamburguer{
+    height: 2px;
+    width: 25px;
+    background-color: black;
+}
+
+
+
